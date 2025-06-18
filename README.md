@@ -1,7 +1,5 @@
-📄 rith.py — Backend: Gesture Recognition Engine
-markdown
-Copy
-Edit
+📄 TOUCHLESS_CONTROL
+
 # 🎯 rith.py — Core Gesture Recognition Engine
 
 This is the backend module that powers all gesture detection and interaction logic for the touchless control system. It leverages MediaPipe's hand and face landmarks, Kalman filtering, and system control libraries (`pyautogui`, `win32api`) to offer real-time, touchless input handling.
